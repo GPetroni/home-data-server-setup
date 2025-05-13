@@ -25,4 +25,4 @@ A documented setup of my personal Ubuntu-based analytics server. Runs JupyterLab
 ### 3. Package Installation
     ```bash
     sudo apt install python3-venv curl git fail2ban ufw
-
+    pip install jupyterlab pandas numpy matplotlib seaborn scikit-learn
